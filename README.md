@@ -1,4 +1,7 @@
+[![Build Status](https://travis-ci.org/code-smartchain/smartchainLock.svg?branch=master)](https://travis-ci.org/code-smartchain/smartchainLock)
+
 # Smartchain Lock WebApp
+
 This is the VueJs WebApp to demonstrate how a physical Lock would handle the smartchainhApp bluetooth requests
 
 ### Built With 
@@ -40,4 +43,3 @@ See also the list of [contributors](https://github.com/code-smartchain) who part
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
