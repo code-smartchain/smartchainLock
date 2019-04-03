@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/code-smartchain/smartchainLock.svg?branch=master)](https://travis-ci.org/code-smartchain/smartchainLock)
+
 # smartchainLock
 This is the VueJs WebApp to demonstrate how a physical Lock would handle the smartchainhApp bluetooth requests
 
